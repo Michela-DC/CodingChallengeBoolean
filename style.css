@@ -1,0 +1,67 @@
+*{
+  font-family: 'Roboto', sans-serif;
+}
+
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+}
+
+.container{
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 50%;
+  margin: auto;
+  padding:100px;
+  border-radius: 10px;
+}
+
+header{
+  text-align: center;
+  color: #00dd00;
+}
+
+header > img{
+  width: 200px;
+}
+
+nav{
+  text-align: center;
+  background-color: #00dd00;
+  padding:10px;
+}
+
+.info-monopattino{
+  color: white;
+  padding-top: 20px;
+}
+
+.name{
+  font-size: 20px;
+}
+
+.adress{
+  display: inline-block;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.barra-carica{
+  display: inline-block;
+  height: 25px;
+  border-radius: 5px;
+}
+
+#carica-Gino22{
+  background-color: #e4ba4e;
+  width: 35%;
+}
+
+#carica-Mike24{
+  background-color: #00dd00;
+  width: 60%;
+}
+
+#carica-Fede154{
+  background-color: #eb2d53;
+  width: 20%;
+}
